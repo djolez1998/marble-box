@@ -1,0 +1,40 @@
+.marble-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .marble-box button {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .marble-box button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .marble-box button:active {
+    background-color: #d0d0d0;
+  }
+  
+  .marble-value {
+    width: 100px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+  
+ 
+  
